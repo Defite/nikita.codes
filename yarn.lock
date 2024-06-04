@@ -2103,12 +2103,12 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/node@npm:^20.12.7":
-  version: 20.12.7
-  resolution: "@types/node@npm:20.12.7"
+"@types/node@npm:^20.14.1":
+  version: 20.14.1
+  resolution: "@types/node@npm:20.14.1"
   dependencies:
     undici-types: ~5.26.4
-  checksum: 7cc979f7e2ca9a339ec71318c3901b9978555257929ef3666987f3e447123bc6dc92afcc89f6347e09e07d602fde7d51bcddea626c23aa2bb74aeaacfd1e1686
+  checksum: 268d8ca09ce2bd6106af5eca118b06ec4c781be5b43ed1865371d0d09c5f4892353d2069bfcaf4cecc3d68a2016d730e44d9793a574c7e49bec2ba68871b94c8
   languageName: node
   linkType: hard
 
@@ -3168,7 +3168,7 @@ __metadata:
   dependencies:
     "@svgr/webpack": ^8.1.0
     "@tryghost/content-api": ^1.11.21
-    "@types/node": ^20.12.7
+    "@types/node": ^20.14.1
     "@types/prismjs": ^1.26.3
     "@types/react": 18.3.1
     "@typescript-eslint/eslint-plugin": ^7.7.1
